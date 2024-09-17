@@ -1,0 +1,3 @@
+sudo chmod +s $(which brightnessctl)
+sudo sed -ie s/required/sufficient/g /etc/pam.d/chsh
+chsh -s /usr/bin/fish

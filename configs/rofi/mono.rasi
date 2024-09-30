@@ -1,0 +1,29 @@
+configuration {
+	show-icons: true;
+	display-drun: "";
+	disable-history: false;
+}
+
+* {
+	background-color: #000000;
+	text-color: #FFFFFF;
+	padding: 2px;
+}
+
+#window {
+	border: 2px;
+	border-color: #FFFFFF;
+}
+
+#listview {
+	background-color: #000000;
+}
+
+#element.selected {
+	border: 2px;
+	border-color: #FFFFFF;
+}
+
+#element-icon {
+	border: none;
+}

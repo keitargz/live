@@ -4,11 +4,11 @@
 
 # terminal emulator
 super + Return
-	kitty
+	urxvtc
 
 # program launcher
-super + r
-	rofi -theme Arc-Dark -show drun
+super + space
+	rofi -show drun -theme ~/.config/rofi/mono.rasi
 
 # make sxhkd reload its configuration files:
 super + Escape

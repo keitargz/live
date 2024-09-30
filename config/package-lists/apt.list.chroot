@@ -1,4 +1,3 @@
-arc-theme
 alsa-utils
 bspwm
 brightnessctl
@@ -7,12 +6,12 @@ fcitx5-mozc
 fish
 fonts-jetbrains-mono
 fonts-noto-cjk
-kitty
-lightdm
+light-locker
 lxqt-core
 neovim
 nm-tray
 papirus-icon-theme
 rofi
+rxvt-unicode
 slick-greeter
 sxhkd
